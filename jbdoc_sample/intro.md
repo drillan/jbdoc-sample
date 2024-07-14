@@ -9,3 +9,11 @@ Check out the content pages bundled with this sample book to see more.
 
 ```{tableofcontents}
 ```
+
+<script src="https://utteranc.es/client.js"
+        repo="drillan/jbdoc-sample"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
